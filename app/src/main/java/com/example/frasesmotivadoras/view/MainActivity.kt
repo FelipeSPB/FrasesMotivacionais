@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         setListeners()
     }
+
+
     private fun setListeners() {
         button_generate.setOnClickListener {
             val intent = Intent(this, PhraseActivity::class.java)
