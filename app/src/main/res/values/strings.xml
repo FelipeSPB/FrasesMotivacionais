@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Frases Motivadoras</string>
     <string name="phrase_main_act">  Veja a mensagem de inspiração que o Universo deseja te passar. Feche os olhos e mentalize o que mais está precisando ouvir hoje para elevar a sua vibração !</string>
-    <string name="phrase_phrase_act">  Só sei que nada sei. </string>
+    <string name="phrase_phrase_act">  Frase Motivacional. </string>
     <string name="writer_phrase_act"> Escritor </string>
     <string name="button_string">Descobrir a Mensagem</string>
+    <string name="button_share">Compartilhar</string>
+    <string name="share_phrase">Motive-se também pelo aplicativo Frases Motivadoras ! Obrigado.</string>
 </resources>
